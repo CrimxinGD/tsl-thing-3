@@ -8,7 +8,7 @@ export default {
         Spinner,
     },
     data: () => ({
-        leaderboard: [leaderboard.json],
+        leaderboard: "data/leaderboard.json",
         loading: true,
         selected: 0,
         err: [],
