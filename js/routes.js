@@ -1,5 +1,5 @@
 import List from './pages/List.js';
-import Leaderboard from './pages/Leaderboard.js';
+import Leaderboard from 'data/CrimxinGD.json';
 import Roulette from './pages/Roulette.js';
 
 export default [
